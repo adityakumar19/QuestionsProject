@@ -37,7 +37,7 @@ INSERT INTO questions
 VALUES (null,"What is your hobby?" , "c)Football");
 
 
-#API's list(tested using postman)
+# API's list(tested using postman)
 1) To get list of all questions with options -> localhost:8080/api/questions (Get mapping)
 2) To get a answer of a particular question using id -> localhost:8080/api/answer?questionId= (Get mapping)
 3) To create new question -> localhost:8080/api/questions (Post mapping)
